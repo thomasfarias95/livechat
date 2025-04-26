@@ -7,15 +7,15 @@ const options = {
     "enabled": true,
     "chatButtonSetting": {
         "backgroundColor": "#16BE45",
-        "ctaText": "Mensagem",
+        "ctaText": "Suporte",
         "borderRadius": "8",
-        "marginLeft": "20",
-        "marginBottom": "20",
-        "marginRight": "20",
+        "marginLeft": "10",
+        "marginBottom": "10",
+        "marginRight": "10",
         "position": "right",
         "textColor": "#ffffff",
         "phoneNumber": "+5511993404466",
-        "messageText": "Olá, como posso lhe ajudar?,
+        "messageText": "Olá, como posso lhe ajudar?",
         "trackClick": true
     }
 }
